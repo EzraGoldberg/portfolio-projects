@@ -1,0 +1,8 @@
+langchain
+langchain-community
+langchain-openai
+openai
+chromadb
+sentence-transformers
+jupyter
+python-dotenv

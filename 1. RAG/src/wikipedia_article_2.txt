@@ -1,0 +1,157 @@
+UltraBattery is a trademark of the lead-acid battery technology commercialized by Furukawa Battery Co. Ltd. UltraBattery has thin carbon layers on spongy lead active material for negative plates. The original idea that combines ultracapacitor technology with lead–acid battery technology in a single cell with a common electrolyte came from Australia's Commonwealth Scientific and Industrial Research Organisation (CSIRO).
+Introduction
+
+Research conducted by independent laboratories, such as the United States's Sandia National Laboratories,[1] the Advanced Lead-Acid Battery Consortium (ALABC),[2] the Commonwealth Scientific and Industrial Research Organisation (CSIRO)[3] and commercial tests by East Penn Manufacturing, Furukawa Battery and Ecoult indicate that in comparison with conventional valve regulated lead acid (VRLA) batteries, UltraBattery technology has higher energy efficiencies, a longer lifetime and superior charge acceptance under partial state of charge (SoC) conditions.
+
+Combining the two technologies in one battery cell means that UltraBattery works very efficiently compared with conventional lead acid technologies[4] largely due to the fact that it can be operated for long periods in a partial state of charge (pSoC), whereas conventional lead acid batteries are more typically designed for high SoC use (i.e. when the battery is close to fully charged).[5] Operating in the partial SoC range extends the battery's life chiefly by reducing sulfation and by reducing time spent operating at very high and very low states of charge, where various side reactions tend to cause deterioration. A conventional VRLA battery tends to deteriorate quickly when operated in this partial SoC range.[5]
+History
+
+The original idea of UltraBattery came from CSIRO.[6]
+
+The development of UltraBattery was funded by the Australian government. Japanese company Furukawa Battery Co., Ltd also contributed to the development of UltraBattery technology, and the Japanese government funded part of its development through the New Energy and Industrial Technology Development Organization (NEDO).
+
+In 2007, East Penn Manufacturing obtained a global head license to manufacture and commercialize UltraBattery technology for motive and automotive applications (in various territories) and for stationary energy storage applications (globally, outside Japan and Thailand, where Furukawa Battery is the head license holder).[7]
+
+The United States Department of Energy has also funded UltraBattery for research into grid-scale stationary energy storage applications. In 2007, CSIRO formed a subsidiary company, Ecoult, to address this market. Ecoult also received support from the Australian Government to further the development of Ultrabattery. In May 2010, US battery manufacturer East Penn Manufacturing acquired Ecoult from CSIRO.[8]
+
+In March 2013, the Australian Government announced further funding through the Australian Renewable Energy Agency's Emerging Renewables Program to further develop UltraBattery technology as cost-effective energy storage for residential and commercial renewable energy systems.[9]
+Storage principle
+
+Energy storage principle of UltraBattery is same as conventional lead-acid battery. The carbon layers on the negative electrode act as reaction sites for reduction of Pb2+ ions to Pb(0) and storage sites of Pb2+ ions.
+Hard sulfation
+
+During normal lead–acid battery operation, lead sulfate crystals grow on the negative electrode during discharging and dissolve again during charging. The formation of these crystals is called sulfation. Over time sulfation can become permanent, as some crystals grow and resist being dissolved. This is particularly the case when the battery is forced to perform at very high rates of discharge, which tends to promote lead sulfate crystal growth on the surface of the electrode. At moderate rates of discharge, the lead sulfate crystals grow throughout the cross section of the electrode plate (which has a sponge-like consistency) since the electrolyte (dilute sulfuric acid) is drawn diffused through the body of the electrode to allow the reaction can take place throughout the plate.[10]
+
+But at very fast rates of discharge, the acid already inside the body of the plate is used up quickly and fresh acid cannot diffuse through the electrode in time to continue the reaction. Hence the reaction is favored toward the outer wall of the electrode, where crystals may form in a dense mat, rather than in dispersed clumps throughout the plate. This mat of crystals further impedes electrolyte transfer. The crystals then grow larger, and because the larger crystals have a large volume compared to their surface area it becomes difficult to remove them chemically during charging, particularly as the concentration of the sulfuric acid in the electrolyte is likely to be high (since only limited lead sulfate has been created on the surface of the plate) and lead sulfate is less soluble in concentrated sulfuric acid (above about 10% concentration by weight) than it is in dilute sulfuric acid.
+
+This condition is sometimes termed the “hard” sulfation of the battery electrode. Hard sulfation increases the battery's impedance (since the lead sulfate crystals tend to insulate the electrode from the electrolyte) and decreases its power, capacity and efficiency due to increased undesirable side reactions, some of which occur inside the negative plate due to charging taking place with low availability of lead sulfate (inside the plate body). One undesirable effect is the production of hydrogen inside the plate, further reducing the efficiency of the reaction. “Hard” sulfation is generally irreversible since the side reactions tend to dominate as more and more energy is pushed into the battery.[11]
+
+To reduce the likelihood of hard sulfation, conventional VRLA batteries should therefore be discharged at specific rates, determined by various charging algorithms. Furthermore, they must be frequently refreshed and are most suited to operation toward the top end of the SoC (between 80% and 100% charged). While operating in this limited state of charge mitigates permanent sulfation on the negative electrode, battery operation exclusively at or near a full SoC is highly inefficient. The inefficiency is largely due to increases the incidence of side reactions (for instance electrolysis) which dissipate energy.
+
+The presence of the ultracapacitor integrated in the UltraBattery acts to limit the formation of hard sulfation inside the cell. This supports the battery's ability to operate for long periods in a partial SoC where the battery operates more efficiently. Conventional VRLAs are somewhat constrained to operate in the inefficient region toward the top of their charge capacity in order to protect them against damage by sulfation. Research continues into the reasons why the presence of the ultracapacitor reduces sulfation so successfully. Experimental results show that the presence of carbon within VRLA cells has some mitigating effect but the protective effects of the parallel-connected ultracapacitor within the UltraBattery are much more significant. Hund et al., for instance, found that typical VRLA battery failure modes (water loss, negative plate sulfation, and grid corrosion) are all minimized in the UltraBattery. Hund's results also showed that the UltraBattery, used in a high rate partial state of charge application, exhibits reduced gassing, minimized negative plate hard sulfation, enhanced power performance and minimized operating temperature compared with conventional VRLA cells.
+Materials used
+
+Sponge lead and carbon layers form the negative electrode.
+
+The electrolyte solution is made up of sulfuric acid and water.
+
+Lead Sulfate is a white crystal or powder. Normal lead acid battery operation sees small lead sulfate crystals growing on the negative electrode during discharging and dissolving back into the electrolyte during charging.
+
+The electrodes are constructed of a lead grid, with a lead-based active material compound – lead oxide – forming the remainder of the positive plate.
+Applications
+
+UltraBattery can be used for a range of energy storage applications, such as:
+
+    In electric vehicle (EVs) batteries
+    To store renewable energy and smooth electricity supply from intermittent energy sources
+    As part of efficient hybrid power systems with fossil-fuel electric generators[12]
+    To provide ancillary services to electrical grids.
+
+UltraBattery is virtually 100 percent recyclable and can be made at existing battery manufacturing facilities.[7]
+UltraBattery in hybrid electric vehicles
+
+When used in hybrid electric vehicles, the UltraBattery's ultracapacitor acts as a buffer during high-rate discharging and charging, enabling it to provide and absorb charge rapidly during vehicle acceleration and braking.[13]
+
+Testing of the Ultrabattery's performance in hybrid electric vehicles by Advanced Lead Acid Battery Consortium achieved more than 100,000 miles on a single battery pack without significant degradation.[2] Laboratory results of UltraBattery prototypes show that their capacity, power, available energy, cold cranking and self-discharge meets, or exceeds, all performance targets set for minimum and maximum power-assist hybrid electric vehicles.
+UltraBattery in Microgrids
+
+UltraBattery can be used to smooth and shift (i.e. store for later use) renewable energy sources on microgrids to improve predictable power availability. UltraBattery can also be used in standalone microgrid systems, renewables power systems and hybrid microgrids. Standalone microgrid systems combine diesel or other fossil fuels with UltraBattery storage to improve the efficiency of fossil-fuel energy generation. Including energy storage in the system reduces the size of the gen-set (i.e. array of generators) because the batteries can handle peaks in the load. UltraBattery also reduces the fuel consumption of the gen-set, b
+
+Renewables power systems combine UltraBattery technology with the renewable generation source to deliver local power. Hybrid microgrids integrate renewable generation sources with UltraBattery energy storage and fossil-fuel gen-sets to maximize the efficiency of base-load generation. This can greatly reduce the cost of energy compared with diesel-only powered microgrids. They also substantially decrease greenhouse gas emissions. An example of this type of microgrid is the King Island Renewable Energy Integration Project (KIREIP),[14] being undertaken by Hydro Tasmania. This megawatt-scale renewable energy project aims to reduce both the cost of delivering power to the island and carbon pollution.[12]
+Multi Purposing of Data Centers
+
+UltraBattery can be used to backup an uninterruptible power supply (UPS). In conventional UPS systems, the batteries sit, essentially unused, until a grid outage event occurs. Because the UltraBattery can provide frequency regulation and related grid services, it can generate revenue for the UPS asset owner at the same time as providing backup power.[15]
+Community, Commercial and Applications
+
+For community applications, UltraBattery can be used as back-up in the event of grid outage (see Section 5.1) and for peak shaving. Also known as peak lopping, peak shaving is the ability to charge batteries during off-peak time, and use the power from the batteries during peak times to avoid higher charges for electricity. Another example of a community application is a 300 kW smart grid demonstration system set up by Furukawa Battery in the Maeda Area in Kitakyushu, Japan. This load-levelling application uses 336 UltraBattery cells (1000 Ah, 2 volts). The company has also installed two smart grid demonstrations of UltraBattery peak shifting technology at Kitakyushu Museum of Natural History & Human History.[16]
+
+In Japan, the Shimizu Corporation has set up a microgrid (see Section 5.2) in a commercial building. The ‘smart building’ system, which includes 163 UltraBattery cells (500 Ah, 2 volts), also monitors cell voltage, impedance and temperature. A second system, installed at Furukawa Battery's Iwaki Factory, incorporates 192 UltraBattery cells, a 100 kW power conditioning system and a battery management system. This load-levelling application was set up to control the factory's demand for power.
+
+For residential applications, local use of rooftop solar could be improved by using UltraBattery to both store power for use by the resident who owns the panels, and feed power or regulation services into the grid during high-value peaks.
+Grid Services
+
+UltraBattery can manage variability on electricity grids in five main ways: frequency regulation, renewable energy integration (smoothing and shifting), spinning reserve, ramp-rate control, and power quality and weak-grid support.
+Frequency regulation
+
+Electricity grids must manage the constant fluctuations in supply and demand of power to keep a constant frequency in order to maintain the physical operation of the grid. UltraBattery can absorb and deliver power to the grid to help manage the balance between supply and demand, and to maintain consistent voltage. Ecoult implemented a grid-scale energy storage system which provides 3 MW of regulation services on the grid of Pennsylvania-Jersey-Maryland (PJM) Interconnection in the United States. Four strings of UltraBattery cells are connected to the grid in Lyon Station, Pennsylvania. The project provides continuous frequency regulation services bidding into the open market on PJM.
+Smoothing & Shifting
+
+UltraBattery technology can be used to integrate renewable energy sources, such as solar and wind, into the electricity grid, by managing the fluctuations in renewable output. It does this by ‘smoothing’ and ‘shifting’ energy.
+
+Smoothing turns the inherent variability of power from photovoltaic panels or wind turbines into a smooth, predictable signal. The system monitors the output of the intermittent renewable source, and when the solar (or wind) signal varies, UltraBattery responds immediately to either release energy or absorb excess energy. Managing the variability of the renewable signal in this way makes renewable energy more reliable.
+
+Shifting energy refers to UltraBattery's ability to store the excess energy produced by renewable resources in off-peak times, and to then release it when needed during periods of peak demand. This allows electricity utilities to improve their overall system performance at peak times.
+
+PNM, the leading electric utility company in New Mexico, United States, has integrated an UltraBattery energy storage system with a solar energy-generating farm to demonstrate smoothing and shifting of solar power for use as a dispatchable renewable resource. The PNM Prosperity project features one of the United States’ largest combinations of photovoltaic energy and solar panel battery storage.
+Ramp-rate control for distributed storage
+
+Many small-scale deployments of rooftop photovoltaic panels tend to multiply the effect of the intermittency of solar generation – creating a problem for grid operators. [REF] UltraBattery energy storage has been used to reduce renewable intermittency by ramping the power on the electricity grid in a controlled manner, making renewable-generated power more predictable.
+Properties
+
+UltraBattery has five main characteristics that form points of difference between this technology and conventional VRLA battery technology: higher capacity turnover, lower lifetime cost per kilowatt hour, higher DC–DC efficiency, fewer refresh charges required and higher rate of charge acceptance.
+Capacity turnover
+
+Capacity turnover is a measure of how many times the theoretical capacity of a battery can be used over its lifetime.
+
+When UltraBattery and standard VRLA (used in a partial SoC regime) are compared in experimental conditions, UltraBattery has been shown to achieve about 13 times the capacity turnover of a standard absorbed glass matt VRLA battery.[1]
+Lifetime cost per kilowatt hour
+
+The lifetime of a battery depends on how it is used, and how many cycles of charging and discharging it is put through. In a situation where batteries are put through four 40% cycles per day and where throughput is the life-limiting factor, UltraBattery will last about three to four times longer than a conventional VRLA battery.[5]
+
+CSIRO, claims “The UltraBattery is about 70 per cent cheaper to make than batteries with comparable performance and can be made using existing manufacturing facilities”.[6]
+DC–DC efficiency
+
+A battery's DC–DC efficiency describes the amount of energy available to be discharged to the load connected to a battery as a proportion of the amount of energy put into the battery during charging. During charging and discharging, some of the battery's stored energy is lost as heat, and some is lost in side reactions. The lower the energy losses of a battery, the more efficient the battery is.
+
+UltraBattery's developers claim it can achieve a DC–DC efficiency of 93–95% (rate dependent) performing variability management applications in a partial SoC regime, depending on discharge rate, and 86–95% (rate dependent), when performing energy shifting applications. By comparison, standard VRLA batteries applied to energy shifting (using the typical top of charge regime) achieve much lower efficiencies – for instance in states of charge from 79% to 84% charged, tests show efficiencies around 55%.[17]
+
+The high DC–DC efficiency of UltraBattery is achievable because (like conventional VRLA batteries) it operates very efficiently below 80% SoC. Experiments indicate that for VRLA batteries “from zero SOC to 84% SOC the average overall battery charging efficiency is 91%”. While conventional VRLA batteries cannot tolerate working in this range for any significant length of time without frequent refreshing, UltraBattery can tolerate working at much lower states of charge without significant degradation. Hence it can achieve much greater efficiencies since it can operate for long periods in the most efficient zone for lead acid batteries.
+Refresh cycles
+
+During operation, conventional VRLA batteries must be refreshed (overcharged) to dissolve the sulfate crystals that have accumulated on the negative electrode and replenish the capacity of the battery. Refreshing the battery also helps return the battery cells in the string (where multiple batteries are used together) to a consistent operating voltage. However the overcharging process is complicated by the fact that not only is the battery out of service during refresh cycles, but the high currents required to complete the overcharge process (within a reasonable timeframe) are also the cause of various parasitic losses. These include thermal losses and losses due to various side reactions (chiefly hydrogen evolution, oxygen evolution and grid corrosion).
+
+UltraBattery can operate without a refresh charge for extended periods. For stationary cycling applications such as renewable energy or grid support, this may be between one and four months depending on workload; standard VRLA batteries in the same applications need refreshing every one to two weeks if performing daily cycles - and performance deteriorates rapidly even with weekly refresh cycles.[5]
+
+In automotive applications in a hybrid electric vehicle, UltraBatteries can be operated more or less continuously in a partial SoC regime without being refreshed. Furukawa reports: “In the field driving test of the Honda Insight hybrid electric vehicle with an UltraBattery pack installed, a target drive of 100,000 miles (approx. 160,000 km) was achieved without the recovering charging.[18]
+Charge acceptance
+
+Because UltraBattery operates effectively in the partial SoC range, it can accept charge more efficiently than conventional VRLA batteries, which typically operate at high states of charge. Sandia National Laboratory tests show VRLA batteries typically achieve less than 50% efficiency at greater than 90% charged, about 55% efficiency between 79% and 84% charged, and over 90% efficiency if charged at between zero and 84% of the full capacity.[17][1] In comparison with conventional VRLA batteries, UltraBattery can be charged efficiently and at high charging/discharging rates. Hund et al.’s test results showed that the Ultrabattery was able to cycle at the 4C1 rate for around 15,000 cycles. The VRLA battery using this test procedure could only cycle at the 1C1 rate. A 1C rate indicates that the battery's entire capacity would be used (or replaced if charging) in one hour at this rate. A 4C rate is four times faster – i.e. the battery would be fully discharged (or charged) in 15 minutes at the 4C rate.
+
+The exact chemical process by which carbon so significantly delays sulfation is not fully understood. However the presence of UltraBattery's parallel ultracapacitor apparently protects the negative terminal from the large surface preponderance of lead sulfate crystals that affects VRLA batteries operated at high rates of discharge or for long periods in pSoC operation, increasing the rechargeability of the cell (see also Hard Sulfation). Reduced sulfation also significantly enhances charge acceptance by reducing hydrogen gas production at the electrode . This is not unexpected since excessive hydrogen gas production (which robs significant energy from the charging process) is caused when electrons pushed into the negative plate during charging (which would usually react with the lead sulfate crystals inside the plate) are unable to easily react with large crystals of lead sulfate on the surface of the plate, so instead tend to reduce the electrolyte's abundant hydrogen ions to hydrogen gas.
+Standards & Safety
+
+UltraBattery is manufactured by East Penn Manufacturing in the United States, to the global requirements of ISO 9001:2008, ISO/TS 16949:2009 and ISO 14001:2004 certification standards.
+
+UltraBattery's electrolyte solution contains H2SO4 in water, and its lead electrodes are inert. As the electrolyte is largely water, UltraBattery is fire retarding. UltraBatteries have the same transport and hazard restrictions as conventional VRLA batteries
+Recycling
+
+Every part of each UltraBattery – lead, plastic, steel and acid – is virtually 100% recyclable for later reuse. Large-scale recycling facilities for these batteries are already available and 96% of lead acid batteries used in the US are recycled.[19] Battery manufacturers recover and separate the lead, plastics and acid from VRLA batteries. The lead is smelted and refined for reuse. Plastic parts are cleaned, ground, extruded and moulded into new plastic parts. The acid is reclaimed, cleaned and used in new batteries.
+Research
+
+Tests have been conducted by independent laboratories, as well as by East Penn Manufacturing, Furukawa and Ecoult, to compare the performance of UltraBattery with conventional VRLA batteries.
+Hybrid electric vehicle tests
+
+Micro hybrid electric vehicles batteries were tested at a 70% SoC in a pulse charge-discharge pattern. UltraBattery had about 1.8 times more capacity turnover, and therefore cycle life, than a conventional VRLA battery.[4]
+
+The Advanced Lead Acid Battery Consortium (ALABC) tested the durability of UltraBattery in the high-rate, partial state-of-charge operation of a Honda Civic hybrid electric vehicle. The test car had comparable miles per gallon performance as the same model powered by Ni-MH batteries.[2]
+
+Under micro, mild and full hybrid electric vehicle duties, the cycling performance of the UltraBattery was at least four times longer than conventional state-of-the-art VRLA batteries and was comparable or even better than that of Ni-MH cells. UltraBattery also demonstrated good acceptance of the charge from regenerative braking, and so did not require equalization charges during the field trial.
+Stationary energy applications
+Efficiency test
+
+Wh (watt-hours) efficiency tests of UltraBattery in a stationary application for an electricity smart grid showed that over 30 cycles of charge-discharge at rates of 0.1 C10A, Wh efficiencies ranged from 91% to 94.5%, depending on the battery's state of charge. [REF] This is compared with a Sandia National Laboratories study into lead-acid battery efficiency which found that traditional lead-acid batteries operating between 79% and 84% state-of-charge (the “top” charge mode to which traditional lead-acid batteries are generally restricted to prolong their life) achieve only 55% incremental charging efficiency.[17]
+Cycle life and recovery test
+
+Batteries were subjected to 3-hour charge and discharge tests at a 60% state of charge, with a 20-hour recovery charge conducted every 90 cycles. Capacity tests showed that after 270 cycles, the UltraBattery capacity ratio was equal to or greater than 103%, compared to 93% for a conventional lead storage battery. The tests showed that the UltraBattery had a longer cycle life and better recovery charge characteristics than the conventional battery when operating in a partial state of charge.
+Utility services and wind farm energy smoothing
+
+High-rate, partial state-of-charge cycle tests were performed to measure the ability of UltraBattery for use in utility ancillary service applications for energy storage and wind farm energy smoothing. Using a high-rate, partial state-of-charge cycling profile at the 1C1 to 4C1 rate, the UltraBattery was capable of more than 15,000 cycles with less than 20% capacity loss, and could cycle at the 4C1 rate. An absorbed glass matt (AGM) VRLA battery tested under the same conditions could only cycle at the 1C1 rate, required a recovery charge after about 100 cycles, and after 1100 cycles lost more than 20% of its capacity. UltraBattery was also able to cycle for more than ten times the number of cycles between recovery charges than the AGM VRLA battery (1000 vs.100).
+
+A wind farm field trial in Hampton, New South Wales (Australia), is testing a system designed to demonstrate the use of energy storage to address the short-term intermittency of wind generation. The trial compared the performance of the UltraBattery and three other lead-acid battery types for renewable energy smoothing applications. Measurements of the variations in cell voltage in each string of 60 cells connected in series showed that the UltraBattery had far less variation over a 10-month period (a 32% increase in standard deviation of voltage range variation, compared to 140%–251% for the other three battery types).
+Utility cycling and photovoltaic hybrid energy applications
+
+Tests by Sandia National Laboratories show that UltraBattery performs for much longer than conventional VRLA batteries in utility cycling. The cycling profile in these tests was intended to mimic frequency regulation duty with approximately 4 cycles per hour with a peak power intended to give a SoC range expected to be typical. The results showed that a conventional VRLA battery (cycling in a partial state of charge (PSoC) and 10% depth of discharge) dropped to 60% of its initial capacity after about 3000 cycles. In the same test an UltraBattery manufactured by East Penn ran for more than 22,000 cycles, maintaining essentially 100% of its initial capacity without having been supplied a recovery charge.[5]
+
+Tests also showed that UltraBattery performs for much longer than conventional VRLA batteries in energy applications, as shown in a simulated photovoltaic hybrid cycle-life test by Sandia National Laboratories. The testing concluded that even at 40-day deficit charges (cycles where more is taken from the battery each day than is put back in). UltraBatteries have performance far surpassing traditional VRLA batteries even when the traditional VRLA batteries are operating on only 7 day deficit charge regimes. In a deficit charge regime there is no recovery by taper charge, also known as refreshing/equalization of the batteries so sulfation is a typical failure mode for conventional VRLAs in this operating regime.
+
+After 100 days of cycling with 60% depth of discharge, a conventional VRLA battery receiving a refresh cycle every 30 days had dropped to 70% of its initial capacity. Two UltraBattery units (one made by Furukawa, one by East Penn) each experiencing 40-day deficit charges were still performing significantly better than the traditional VRLA battery which was receiving more frequent refreshes (it experienced only a maximum 7-day deficit charge). After 430 days of cycling, the East Penn UltraBattery and Furukawa UltraBattery still had not failed. The East Penn Battery was maintaining 85% of its initial capacity and the Furukawa battery was at very close to 100% of its initial capacity. 

@@ -1,15 +1,16 @@
-# Core LangChain stack (locked and compatible)
-langchain==0.2.14
-langchain-core==0.2.33
-langchain-community==0.2.12
-langchain-openai==0.1.22
+# Core LangChain stack
+langchain==0.3.7
+langchain-core==0.3.19
+langchain-community==0.3.7
+langchain-openai==0.2.9
 
 # OpenAI
-openai==1.30.1
+httpx==0.27.2
+openai==1.54.0
 
 # Vector DB
-onnxruntime==1.18.0
 chromadb==0.5.5
+onnxruntime==1.18.0
 
 # Embeddings (local models)
 sentence-transformers==2.7.0
@@ -20,8 +21,7 @@ torch==2.4.1
 python-dotenv==1.0.1
 jupyter==1.0.0
 
-# Optional but helpful (prevents hidden issues)
-tiktoken==0.7.0
+# Utilities
+tiktoken==0.8.0
 numpy==1.26.4
-pydantic==2.7.4
-
+pydantic==2.9.2

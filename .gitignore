@@ -1,3 +1,17 @@
 3. Job Application Tracker/data/credentials/gmail_token.json
 3. Job Application Tracker/data/credentials/gmail_credentials.json
+# Virtual environment
+1. RAG/.venv/
+
+# Environment variables
 1. RAG/.env
+
+# Jupyter checkpoints
+1. RAG/.ipynb_checkpoints/
+
+# ChromaDB local store
+1. RAG/chroma_DB/
+
+# Python cache
+1. RAG/__pycache__/
+*.pyc

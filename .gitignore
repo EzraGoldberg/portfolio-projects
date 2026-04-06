@@ -15,3 +15,8 @@
 # Python cache
 1. RAG/__pycache__/
 *.pyc
+
+# Data
+# While we are using public data from Kaggle (see src/data_download.py), best practice to never commit data.
+# This is better for data deletion policies, healthcare data (HIPAA), and more
+1. RAG/data/1_source/

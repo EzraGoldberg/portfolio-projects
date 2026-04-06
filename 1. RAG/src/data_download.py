@@ -208,6 +208,25 @@ def verify_downloads(
 
     return status
 
+# def get_list_datasets(  # Made first, too noisy. Needed simpler version. Will remove old code on next commit
+#     datasets: Optional[dict[str, str]] = None,
+#     source_dir: Optional[Path] = None,
+# ) -> list[str]:
+#     """Return a list of dataset names that are downloaded and non-empty."""
+#     status = verify_downloads(datasets=datasets, source_dir=source_dir)
+#     return [name for name, present in status.items() if present]
+def list_available_datasets(
+    datasets: Optional[dict[str, str]] = None,
+    source_dir: Optional[Path] = None,
+) -> list[str]:
+    datasets = datasets or DATASETS
+    source_dir = source_dir or SOURCE_DIR
+
+    return [
+        name
+        for name in datasets
+        if (source_dir / name).exists() and any((source_dir / name).rglob("*"))
+    ]
 
 if __name__ == "__main__":
     load_kaggle_credentials()

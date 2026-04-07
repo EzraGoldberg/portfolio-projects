@@ -21,4 +21,4 @@
 # This is better for data deletion policies, healthcare data (HIPAA), and more
 1. RAG/data/1_source/
 1. RAG/data/2_cleaned/
-1. RAG/data/3_txt_knowledge_base/
+1. RAG/data/3_txt_KB/

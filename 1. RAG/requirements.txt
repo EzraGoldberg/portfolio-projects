@@ -30,3 +30,4 @@ pydantic==2.9.2
 kagglehub
 
 pandas
+openpyxl

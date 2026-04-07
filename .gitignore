@@ -22,3 +22,4 @@
 1. RAG/data/1_source/
 1. RAG/data/2_cleaned/
 1. RAG/data/3_txt_KB/
+1. RAG/data/vectorstore/

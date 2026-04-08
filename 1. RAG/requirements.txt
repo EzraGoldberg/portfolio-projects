@@ -31,3 +31,5 @@ kagglehub
 
 pandas
 openpyxl
+nltk
+textstat

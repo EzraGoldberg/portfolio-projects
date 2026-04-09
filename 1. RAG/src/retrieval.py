@@ -2,13 +2,15 @@
 # Used by: 3_retrieval.ipynb, 4_rag_pipeline.ipynb
 from langchain_community.vectorstores import Chroma
 
-def retrieve(query: str, vectorstore: Chroma, k: int = 3) -> list:
+def retrieve(query: str, vectorstore: Chroma, k: int = 3, filter: dict = None) -> list:
     """
     Given a query string, return the top-k most relevant chunks from the vectorstore.
-    Returns a list of LangChain Document objects.
+    Returns a list of LangChain Document objects. Optional Metadata filter
     """
-    return vectorstore.similarity_search(query, k=k)
-
+    if filter:
+        return vectorstore.similarity_search(query, k=k, filter=filter)
+    else:
+        return vectorstore.similarity_search(query, k=k)
 
 def print_results(query: str, results: list) -> None:
     """
